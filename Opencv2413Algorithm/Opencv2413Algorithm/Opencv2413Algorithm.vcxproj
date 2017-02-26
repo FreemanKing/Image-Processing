@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{0FE97C80-53BA-4EFF-AEFC-F8FF71BFF8F8}</ProjectGuid>
-    <RootNamespace>SmoothingImages</RootNamespace>
+    <ProjectGuid>{7FF84846-4AE7-4660-B122-096F5457E8DC}</ProjectGuid>
+    <RootNamespace>Opencv2413Algorithm</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -65,19 +65,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="JDGBaseColumnFilter.cpp" />
-    <ClCompile Include="JDGBaseFilter.cpp" />
-    <ClCompile Include="JDGBaseRowFilter.cpp" />
-    <ClCompile Include="JDGFilterEngine.cpp" />
-    <ClCompile Include="JDGSmooth.cpp" />
-    <ClCompile Include="SmoothingImages.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="JDGBaseColumnFilter.h" />
-    <ClInclude Include="JDGBaseFilter.h" />
-    <ClInclude Include="JDGBaseRowFilter.h" />
-    <ClInclude Include="JDGFilterEngine.h" />
-    <ClInclude Include="JDGSmooth.h" />
+    <ClCompile Include="BackProjectHistogram\BackProjectHistogram.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

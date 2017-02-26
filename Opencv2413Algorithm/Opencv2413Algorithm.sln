@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmoothingImages", "SmoothingImages\SmoothingImages.vcxproj", "{0FE97C80-53BA-4EFF-AEFC-F8FF71BFF8F8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Opencv2413Algorithm", "Opencv2413Algorithm\Opencv2413Algorithm.vcxproj", "{7FF84846-4AE7-4660-B122-096F5457E8DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0FE97C80-53BA-4EFF-AEFC-F8FF71BFF8F8}.Debug|Win32.ActiveCfg = Debug|Win32
-		{0FE97C80-53BA-4EFF-AEFC-F8FF71BFF8F8}.Debug|Win32.Build.0 = Debug|Win32
-		{0FE97C80-53BA-4EFF-AEFC-F8FF71BFF8F8}.Release|Win32.ActiveCfg = Release|Win32
-		{0FE97C80-53BA-4EFF-AEFC-F8FF71BFF8F8}.Release|Win32.Build.0 = Release|Win32
+		{7FF84846-4AE7-4660-B122-096F5457E8DC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7FF84846-4AE7-4660-B122-096F5457E8DC}.Debug|Win32.Build.0 = Debug|Win32
+		{7FF84846-4AE7-4660-B122-096F5457E8DC}.Release|Win32.ActiveCfg = Release|Win32
+		{7FF84846-4AE7-4660-B122-096F5457E8DC}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
